@@ -1,0 +1,86 @@
+{
+  "pins" : [
+    {
+      "identity" : "c",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xOpenBytes/c",
+      "state" : {
+        "revision" : "c3560cbb17338ba6d2ff74b5ffd1a7b5db8d5ddd",
+        "version" : "0.2.0"
+      }
+    },
+    {
+      "identity" : "chronicle",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xLeif/Chronicle",
+      "state" : {
+        "revision" : "5d5e80f63943969eb2c33d686958b3938536a455",
+        "version" : "0.2.3"
+      }
+    },
+    {
+      "identity" : "flet",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xOpenBytes/FLet",
+      "state" : {
+        "revision" : "456c08ffa20f3bcf4dff960d00d5ce4dba7a9a19",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "o",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xOpenBytes/o",
+      "state" : {
+        "revision" : "760c971650413d30c2edba6090fd92ce0720b8a0",
+        "version" : "0.2.0"
+      }
+    },
+    {
+      "identity" : "screendata-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ServerDriven/ScreenData-swift",
+      "state" : {
+        "revision" : "20e1b73ec66076494135b041a29d43ca0870fd45",
+        "version" : "0.4.2"
+      }
+    },
+    {
+      "identity" : "screendataapp-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ServerDriven/ScreenDataApp-ios",
+      "state" : {
+        "revision" : "10fe1acf4bd92e5f8a2285b4437ebb6b190b22cb",
+        "version" : "0.0.3"
+      }
+    },
+    {
+      "identity" : "screendatanavigation-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ServerDriven/ScreenDataNavigation-swift",
+      "state" : {
+        "revision" : "5401d904153ee07e12d574cb813e5f92ac77be19",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "screendataui-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ServerDriven/ScreenDataUI-ios",
+      "state" : {
+        "revision" : "6bc41eacb6405c894e1e0e51d3c53351a04cc113",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "t",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xOpenBytes/t",
+      "state" : {
+        "revision" : "78294df737c524f40267bca42beb8e10ca28aa41",
+        "version" : "0.2.0"
+      }
+    }
+  ],
+  "version" : 2
+}
